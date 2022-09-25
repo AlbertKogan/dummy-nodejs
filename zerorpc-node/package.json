@@ -29,9 +29,9 @@
   ],
   "dependencies": {
     "msgpack-lite": "0.1.26",
-    "underscore": "1.9.1",
+    "underscore": "1.12.1",
     "uuid": "3.3.3",
-    "zeromq": "5.1.1"
+    "zeromq": "5.2.5"
   },
   "devDependencies": {
     "nodeunit": "0.9.1",
