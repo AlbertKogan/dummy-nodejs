@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "electron-store": "5.1.0",
+    "electron-store": "8.0.0",
     "jquery": "3.4.1",
     "zerorpc": "file:./zerorpc-node"
   },
